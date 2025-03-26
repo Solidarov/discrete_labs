@@ -1,0 +1,14 @@
+name: DISCRETE_LABS
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - numpy
+  - ipykernel
+  - scipy
+  - sympy
+  - networkx
+  - matplotlib
+  - pandas
+prefix: /home/pablo/anaconda3/envs/DISCRETE_LABS
